@@ -2,7 +2,7 @@
 
 This is an automatic pelvic evaluation system, which automatically identifies the landmarks of the pelvis, calculates the angle and compares it with the reference value.
 
-[简体中文文档](https://github.com/huangchenxi304/APES/blob/master/README_zh_CN.md)
+[简体中文文档](https://github.com/huangchenxi304/APES/blob/master/README%20_zh_CN.md)
 
 
 Tech Stack: Flask + HTML + boostrap + js
