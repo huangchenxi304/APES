@@ -1,18 +1,19 @@
 # Automatic Pelvic Evaluation System
 
-This is an automatic pelvic evaluation system, which automatically identifies the key points of the pelvis, calculates the angle and compares it with the reference value.
+This is an automatic pelvic evaluation system, which automatically identifies the landmarks of the pelvis, calculates the angle and compares it with the reference value.
 
+[简体中文文档](https://github.com/huangchenxi304/APES/blob/master/README_zh_CN.md)
 
 
 Tech Stack: Flask + HTML + boostrap + js
 
-key point identification model：[YOLO](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection) and [UNet](https://github.com/milesial/Pytorch-UNet)
+Landmark identification model：[YOLO](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection) and [UNet](https://github.com/milesial/Pytorch-UNet)
 
 
 
 ![](data/1.png)
 
-***Still working on the English interfaces.***
+
 
 ## TOC
 
